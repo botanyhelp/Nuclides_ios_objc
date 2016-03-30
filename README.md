@@ -4,7 +4,7 @@ Nuclides iOS 7 iphone application that shows data for every isotope of every ele
 
 These codes can be used to construct an iOS application that is much like the Android application named Nuclides and available on Google Play Store.  This iOS application "Nuclides" is NOT on the Apple App Store.  It was built with xcode for ios 7.  
 
-There are almost 100 screenshots of construction in xcode/ios7 that would allow reconstruction.  The project page for [Nuclides_ios_objc](botanyhelp.github.io/Nuclides_ios_objc) has these constructio details.  There may be text description of the description elsewhere.  Looking over screenshots is tedious but possibly less tedious than reading mediocre text description of xCode "click this, press that" operations. 
+There are almost 100 screenshots of construction in xcode/ios7 that would allow reconstruction.  The project page for [Nuclides_ios_objc](http://botanyhelp.github.io/Nuclides_ios_objc) has these constructio details.  There may be text description of the description elsewhere.  Looking over screenshots is tedious but possibly less tedious than reading mediocre text description of xCode "click this, press that" operations. 
 
 The architecture of this program is simple and does not use Core Data.  The data is shoved into application code.  In particular, in the file **nuclidedatacontroller.m** where the data is setup:
 
